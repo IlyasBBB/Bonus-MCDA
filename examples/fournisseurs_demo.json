@@ -1,0 +1,22 @@
+{
+  "name": "Demonstration : choix d'un fournisseur (donnees du cours, centres des intervalles ; poids et seuils illustratifs)",
+  "alternatives": ["A", "B", "C", "D"],
+  "criteria": [
+    {"name": "cout", "direction": "min", "weight": 0.30, "unit": "EUR", "q": 1, "p": 4,
+     "normalization": {"type": "minmax"}},
+    {"name": "delai", "direction": "min", "weight": 0.20, "unit": "jours", "q": 0.5, "p": 2,
+     "normalization": {"type": "minmax"}},
+    {"name": "qualite", "direction": "max", "weight": 0.35, "unit": "%", "q": 0.5, "p": 2,
+     "v": 3, "normalization": {"type": "minmax"}},
+    {"name": "co2", "direction": "min", "weight": 0.15, "unit": "kg", "q": 0.1, "p": 0.4,
+     "normalization": {"type": "minmax"}}
+  ],
+  "performances": {
+    "A": [50, 7, 97, 1.95],
+    "B": [46, 8, 95.5, 1.65],
+    "C": [52, 5.5, 98, 2.2],
+    "D": [48, 8, 95.5, 1.8]
+  },
+  "constraints": [{"criterion": "delai", "op": "<=", "value": 10}],
+  "electre": {"lambda": 0.65}
+}

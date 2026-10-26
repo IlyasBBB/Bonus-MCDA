@@ -1,0 +1,3 @@
+numpy>=1.24
+# optionnel, uniquement pour la figure de examples/cas6_reproduire.py
+matplotlib>=3.6

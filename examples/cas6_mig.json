@@ -1,0 +1,37 @@
+{
+  "name": "Cas 6 - Maghreb Industrial Group : choix d'un cabinet de conseil",
+  "alternatives": ["Atlas", "NorthBridge", "Optima", "Horizon"],
+  "criteria": [
+    {"name": "C1", "label": "Ouverture strategique (CEO)", "direction": "max", "weight": 0.25,
+     "unit": "note 1-5", "q": 0.5, "p": 2, "v": 3, "pref_function": "linear", "missing_value": 3},
+    {"name": "C2", "label": "Credibilite sectorielle (Dir. industriel)", "direction": "max", "weight": 0.25,
+     "unit": "note 1-5", "q": 0.5, "p": 2, "v": 3, "pref_function": "linear", "missing_value": 3},
+    {"name": "C3", "label": "Comprehension et collaboration (Dir. transformation)", "direction": "max", "weight": 0.25,
+     "unit": "note 1-5", "q": 0.5, "p": 2, "v": 3, "pref_function": "linear", "missing_value": 3},
+    {"name": "C4", "label": "Honoraires (CFO, cout)", "direction": "min", "weight": 0.125,
+     "unit": "MDH", "q": 0.3, "p": 1, "pref_function": "linear",
+     "normalization": {"type": "anchored", "worst": 4.5, "best": 2.9, "lo": 1, "hi": 5}},
+    {"name": "C5", "label": "Solidite d'execution (CFO, risque)", "direction": "max", "weight": 0.125,
+     "unit": "note 1-5", "q": 0.5, "p": 2, "v": 3, "pref_function": "linear", "missing_value": 3}
+  ],
+  "performances": {
+    "Atlas":       [5,    2, 2,    4.4, 5],
+    "NorthBridge": [null, 5, null, 3.6, 3],
+    "Optima":      [null, 2, 5,    2.9, 4],
+    "Horizon":     [2,    3, 4,    4.1, 4]
+  },
+  "constraints": [{"criterion": "C4", "op": "<=", "value": 4.5}],
+  "ahp": {
+    "pairwise": [
+      [1,     "1/2", 1,     3, 2],
+      [2,     1,     2,     4, 3],
+      [1,     "1/2", 1,     3, 2],
+      ["1/3", "1/4", "1/3", 1, "1/2"],
+      ["1/2", "1/3", "1/2", 2, 1]
+    ]
+  },
+  "electre": {"lambda": 0.6, "veto_mode": "electre_is"},
+  "sensitivity": {"monte_carlo_draws": 10000, "perturb_rel": 0.3, "dirichlet_bounds": [0.1, 0.4],
+                  "performance_delta": 1, "performance_bounds": [1, 5],
+                  "performance_criteria": ["C1", "C2", "C3", "C5"], "seed": 2026}
+}

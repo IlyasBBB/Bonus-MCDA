@@ -1,0 +1,2171 @@
+{
+ "eliminated": [],
+ "imputed": [
+  [
+   "NorthBridge",
+   "C1"
+  ],
+  [
+   "NorthBridge",
+   "C3"
+  ],
+  [
+   "Optima",
+   "C1"
+  ]
+ ],
+ "weights_members": [
+  0.25,
+  0.25,
+  0.25,
+  0.125,
+  0.125
+ ],
+ "ahp": {
+  "weights": [
+   0.21466730999758285,
+   0.37599894727668265,
+   0.21466730999758296,
+   0.07377808969579779,
+   0.12088834303235381
+  ],
+  "lambda_max": 5.033114025595117,
+  "CI": 0.00827850639877914,
+  "RI": 1.12,
+  "CR": 0.0073915235703385165,
+  "weights_geometric": [
+   0.2153614083166858,
+   0.3749659906446748,
+   0.2153614083166858,
+   0.07349827262623083,
+   0.12081292009572277
+  ]
+ },
+ "ws_members": {
+  "values": [
+   [
+    5.0,
+    2.0,
+    2.0,
+    1.2499999999999991,
+    5.0
+   ],
+   [
+    3.0,
+    5.0,
+    3.0,
+    3.2499999999999996,
+    3.0
+   ],
+   [
+    3.0,
+    2.0,
+    5.0,
+    5.0,
+    4.0
+   ],
+   [
+    2.0,
+    3.0,
+    4.0,
+    2.000000000000001,
+    4.0
+   ]
+  ],
+  "contrib": [
+   [
+    1.25,
+    0.5,
+    0.5,
+    0.1562499999999999,
+    0.625
+   ],
+   [
+    0.75,
+    1.25,
+    0.75,
+    0.40624999999999994,
+    0.375
+   ],
+   [
+    0.75,
+    0.5,
+    1.25,
+    0.625,
+    0.5
+   ],
+   [
+    0.5,
+    0.75,
+    1.0,
+    0.2500000000000001,
+    0.5
+   ]
+  ],
+  "scores": [
+   3.03125,
+   3.53125,
+   3.625,
+   3.0
+  ]
+ },
+ "dominance": [],
+ "promethee_ahp": {
+  "pi": [
+   [
+    0.0,
+    0.3355556530299367,
+    0.2549634243417008,
+    0.2549634243417008
+   ],
+   [
+    0.5002533527728754,
+    0.0,
+    0.37599894727668265,
+    0.46863417147467623
+   ],
+   [
+    0.28844539969338073,
+    0.29712233273929967,
+    0.0,
+    0.2168896296941864
+   ],
+   [
+    0.3400002924231439,
+    0.11185188434331225,
+    0.12533298242556087,
+    0.0
+   ]
+  ],
+  "phi_plus": [
+   0.2818275005711128,
+   0.4482954905080781,
+   0.2674857873756223,
+   0.1923950530640057
+  ],
+  "phi_minus": [
+   0.37623301496313327,
+   0.24817662337084956,
+   0.2520984513479814,
+   0.31349574183685447
+  ],
+  "phi": [
+   -0.0944055143920205,
+   0.20011886713722854,
+   0.015387336027640863,
+   -0.12110068877284877
+  ],
+  "unicriterion": [
+   [
+    [
+     0.0,
+     1.0,
+     1.0,
+     1.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.3333333333333333
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.3333333333333333
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   [
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     1.0,
+     0.0,
+     1.0,
+     1.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.3333333333333333,
+     0.0,
+     0.3333333333333333,
+     0.0
+    ]
+   ],
+   [
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.3333333333333333,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     1.0,
+     1.0,
+     0.0,
+     0.3333333333333333
+    ],
+    [
+     1.0,
+     0.3333333333333333,
+     0.0,
+     0.0
+    ]
+   ],
+   [
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.7142857142857146,
+     0.0,
+     0.0,
+     0.2857142857142851
+    ],
+    [
+     1.0,
+     0.5714285714285717,
+     0.0,
+     1.0
+    ],
+    [
+     1.030921380009074e-15,
+     0.0,
+     0.0,
+     0.0
+    ]
+   ],
+   [
+    [
+     0.0,
+     1.0,
+     0.3333333333333333,
+     0.3333333333333333
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.3333333333333333,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.3333333333333333,
+     0.0,
+     0.0
+    ]
+   ]
+  ]
+ },
+ "promethee1_ahp": [
+  [
+   "NorthBridge",
+   "Atlas"
+  ],
+  [
+   "NorthBridge",
+   "Horizon"
+  ],
+  [
+   "NorthBridge",
+   "Optima"
+  ],
+  [
+   "Optima",
+   "Horizon"
+  ]
+ ],
+ "decomposition": {
+  "WS/membres": [
+   3.03125,
+   3.53125,
+   3.625,
+   3.0
+  ],
+  "PROMETHEE/membres": [
+   -0.05753968253968256,
+   0.05952380952380942,
+   0.13492063492063483,
+   -0.1369047619047618
+  ],
+  "WS/AHP": [
+   2.9513333918179616,
+   3.770442416977315,
+   3.3217801951424333,
+   3.0471102533365566
+  ],
+  "PROMETHEE/AHP": [
+   -0.0944055143920205,
+   0.20011886713722854,
+   0.015387336027640863,
+   -0.12110068877284877
+  ],
+  "PROMETHEE usuel/membres": [
+   -0.16666666666666663,
+   0.08333333333333331,
+   0.20833333333333331,
+   -0.12499999999999994
+  ],
+  "PROMETHEE usuel/AHP": [
+   -0.2035557115145658,
+   0.20814753081040038,
+   0.03777943484225893,
+   -0.04237125413809356
+  ]
+ },
+ "electre": {
+  "pseudo-criteres q/p, veto IS / AHP": [
+   {
+    "lambda": 0.5,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "NorthBridge"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.55,
+    "kernel": [
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.6,
+    "kernel": [
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.65,
+    "kernel": [
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.7,
+    "kernel": [
+     "Atlas",
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.75,
+    "kernel": [
+     "Atlas",
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.8,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.85,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.9,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   }
+  ],
+  "pseudo-criteres q/p, veto IS / membres": [
+   {
+    "lambda": 0.5,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "NorthBridge"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.55,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "NorthBridge"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.6,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "NorthBridge"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.65,
+    "kernel": [
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "Atlas",
+      "Horizon"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.7,
+    "kernel": [
+     "Atlas",
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ],
+     [
+      "Horizon",
+      "Optima"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.75,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.8,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.85,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.9,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   }
+  ],
+  "vrai critere, veto simple / AHP": [
+   {
+    "lambda": 0.5,
+    "kernel": [
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.55,
+    "kernel": [
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.6,
+    "kernel": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.65,
+    "kernel": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.7,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   },
+   {
+    "lambda": 0.75,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   },
+   {
+    "lambda": 0.8,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   },
+   {
+    "lambda": 0.85,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   },
+   {
+    "lambda": 0.9,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   }
+  ],
+  "vrai critere, veto simple / membres": [
+   {
+    "lambda": 0.5,
+    "kernel": [
+     "NorthBridge"
+    ],
+    "never_outranked": [
+     "NorthBridge"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Optima"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.55,
+    "kernel": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.6,
+    "kernel": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "NorthBridge",
+      "Atlas"
+     ],
+     [
+      "NorthBridge",
+      "Horizon"
+     ],
+     [
+      "Optima",
+      "Atlas"
+     ],
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.65,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.7,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.75,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima"
+    ],
+    "arcs": [
+     [
+      "Optima",
+      "Horizon"
+     ]
+    ]
+   },
+   {
+    "lambda": 0.8,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   },
+   {
+    "lambda": 0.85,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   },
+   {
+    "lambda": 0.9,
+    "kernel": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "never_outranked": [
+     "Atlas",
+     "NorthBridge",
+     "Optima",
+     "Horizon"
+    ],
+    "arcs": []
+   }
+  ]
+ },
+ "electre_ref": {
+  "concordance": [
+   [
+    1.0,
+    0.49974664722712464,
+    0.7115546003066193,
+    0.6599997075768561
+   ],
+   [
+    0.6644443469700634,
+    1.0,
+    0.7028776672607004,
+    0.8881481156566878
+   ],
+   [
+    0.7450365756582993,
+    0.6240010527233174,
+    1.0,
+    0.8746670175744392
+   ],
+   [
+    0.7450365756582993,
+    0.5313658285253239,
+    0.7831103703058138,
+    1.0
+   ]
+  ],
+  "arcs": [
+   [
+    "Atlas",
+    "Horizon"
+   ],
+   [
+    "NorthBridge",
+    "Atlas"
+   ],
+   [
+    "NorthBridge",
+    "Optima"
+   ],
+   [
+    "NorthBridge",
+    "Horizon"
+   ],
+   [
+    "Optima",
+    "Atlas"
+   ],
+   [
+    "Optima",
+    "Horizon"
+   ],
+   [
+    "Horizon",
+    "Optima"
+   ]
+  ],
+  "kernel": [
+   "NorthBridge"
+  ],
+  "vetoes": {
+   "Atlas > NorthBridge": [
+    "C2"
+   ],
+   "Atlas > Optima": [
+    "C3"
+   ],
+   "Optima > NorthBridge": [
+    "C2"
+   ],
+   "Horizon > Atlas": [
+    "C1"
+   ]
+  }
+ },
+ "electre_crisp": {
+  "concordance": [
+   [
+    1.0,
+    0.3355556530299367,
+    0.7115546003066193,
+    0.3355556530299367
+   ],
+   [
+    0.6644443469700634,
+    1.0,
+    0.5906662572742655,
+    0.6644443469700633
+   ],
+   [
+    0.6644443469700634,
+    0.6240010527233174,
+    1.0,
+    0.6240010527233174
+   ],
+   [
+    0.6644443469700634,
+    0.3355556530299368,
+    0.49688729030903644,
+    1.0
+   ]
+  ],
+  "arcs": [
+   [
+    "NorthBridge",
+    "Atlas"
+   ],
+   [
+    "NorthBridge",
+    "Horizon"
+   ],
+   [
+    "Optima",
+    "Atlas"
+   ],
+   [
+    "Optima",
+    "Horizon"
+   ]
+  ],
+  "kernel": [
+   "NorthBridge",
+   "Optima"
+  ],
+  "vetoes": {
+   "Atlas > NorthBridge": [
+    "C2"
+   ],
+   "Atlas > Optima": [
+    "C3"
+   ],
+   "Optima > NorthBridge": [
+    "C2"
+   ],
+   "Horizon > Atlas": [
+    "C1"
+   ]
+  }
+ },
+ "switch": {
+  "WS/membres": [
+   {
+    "criterion": "C1",
+    "reference": 0.25,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C1",
+     "threshold": 0.42168701171875,
+     "before": "Optima",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C1",
+      "threshold": 0.42168701171875,
+      "before": "Optima",
+      "after": "Atlas"
+     }
+    ]
+   },
+   {
+    "criterion": "C2",
+    "reference": 0.25,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C2",
+     "threshold": 0.27272705078125004,
+     "before": "Optima",
+     "after": "NorthBridge",
+     "new_first": "NorthBridge"
+    },
+    "all": [
+     {
+      "criterion": "C2",
+      "threshold": 0.27272705078125004,
+      "before": "Optima",
+      "after": "NorthBridge"
+     }
+    ]
+   },
+   {
+    "criterion": "C3",
+    "reference": 0.25,
+    "switch_below": {
+     "criterion": "C3",
+     "threshold": 0.21311474609375003,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "NorthBridge"
+    },
+    "switch_above": null,
+    "all": [
+     {
+      "criterion": "C3",
+      "threshold": 0.21311474609375003,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C4",
+    "reference": 0.125,
+    "switch_below": {
+     "criterion": "C4",
+     "threshold": 0.07547216796874999,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "NorthBridge"
+    },
+    "switch_above": null,
+    "all": [
+     {
+      "criterion": "C4",
+      "threshold": 0.07547216796874999,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C5",
+    "reference": 0.125,
+    "switch_below": {
+     "criterion": "C5",
+     "threshold": 0.034482910156250005,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "NorthBridge"
+    },
+    "switch_above": {
+     "criterion": "C5",
+     "threshold": 0.45097998046875,
+     "before": "Optima",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C5",
+      "threshold": 0.034482910156250005,
+      "before": "NorthBridge",
+      "after": "Optima"
+     },
+     {
+      "criterion": "C5",
+      "threshold": 0.45097998046875,
+      "before": "Optima",
+      "after": "Atlas"
+     }
+    ]
+   }
+  ],
+  "WS/AHP": [
+   {
+    "criterion": "C1",
+    "reference": 0.21466730999758285,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C1",
+     "threshold": 0.44285009765625005,
+     "before": "NorthBridge",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C1",
+      "threshold": 0.44285009765625005,
+      "before": "NorthBridge",
+      "after": "Atlas"
+     }
+    ]
+   },
+   {
+    "criterion": "C2",
+    "reference": 0.37599894727668265,
+    "switch_below": {
+     "criterion": "C2",
+     "threshold": 0.26626611328125005,
+     "before": "Optima",
+     "after": "NorthBridge",
+     "new_first": "Optima"
+    },
+    "switch_above": null,
+    "all": [
+     {
+      "criterion": "C2",
+      "threshold": 0.26626611328125005,
+      "before": "Optima",
+      "after": "NorthBridge"
+     }
+    ]
+   },
+   {
+    "criterion": "C3",
+    "reference": 0.21466730999758296,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C3",
+     "threshold": 0.35856201171875,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "Optima"
+    },
+    "all": [
+     {
+      "criterion": "C3",
+      "threshold": 0.35856201171875,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C4",
+    "reference": 0.07377808969579779,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C4",
+     "threshold": 0.26278466796875,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "Optima"
+    },
+    "all": [
+     {
+      "criterion": "C4",
+      "threshold": 0.26278466796875,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C5",
+    "reference": 0.12088834303235381,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C5",
+     "threshold": 0.37631982421875,
+     "before": "NorthBridge",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C5",
+      "threshold": 0.37631982421875,
+      "before": "NorthBridge",
+      "after": "Atlas"
+     }
+    ]
+   }
+  ],
+  "PROMETHEE/membres": [
+   {
+    "criterion": "C1",
+    "reference": 0.25,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C1",
+     "threshold": 0.35203369140624996,
+     "before": "Optima",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C1",
+      "threshold": 0.35203369140624996,
+      "before": "Optima",
+      "after": "Atlas"
+     }
+    ]
+   },
+   {
+    "criterion": "C2",
+    "reference": 0.25,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C2",
+     "threshold": 0.28720654296875003,
+     "before": "Optima",
+     "after": "NorthBridge",
+     "new_first": "NorthBridge"
+    },
+    "all": [
+     {
+      "criterion": "C2",
+      "threshold": 0.28720654296875003,
+      "before": "Optima",
+      "after": "NorthBridge"
+     }
+    ]
+   },
+   {
+    "criterion": "C3",
+    "reference": 0.25,
+    "switch_below": {
+     "criterion": "C3",
+     "threshold": 0.19540185546875,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "NorthBridge"
+    },
+    "switch_above": null,
+    "all": [
+     {
+      "criterion": "C3",
+      "threshold": 0.19540185546875,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C4",
+    "reference": 0.125,
+    "switch_below": {
+     "criterion": "C4",
+     "threshold": 0.02173876953125,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "NorthBridge"
+    },
+    "switch_above": null,
+    "all": [
+     {
+      "criterion": "C4",
+      "threshold": 0.02173876953125,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C5",
+    "reference": 0.125,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C5",
+     "threshold": 0.35013232421875007,
+     "before": "Optima",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C5",
+      "threshold": 0.35013232421875007,
+      "before": "Optima",
+      "after": "Atlas"
+     }
+    ]
+   }
+  ],
+  "PROMETHEE/AHP": [
+   {
+    "criterion": "C1",
+    "reference": 0.21466730999758285,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C1",
+     "threshold": 0.36716455078125,
+     "before": "NorthBridge",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C1",
+      "threshold": 0.36716455078125,
+      "before": "NorthBridge",
+      "after": "Atlas"
+     }
+    ]
+   },
+   {
+    "criterion": "C2",
+    "reference": 0.37599894727668265,
+    "switch_below": {
+     "criterion": "C2",
+     "threshold": 0.28449169921875006,
+     "before": "Optima",
+     "after": "NorthBridge",
+     "new_first": "Optima"
+    },
+    "switch_above": null,
+    "all": [
+     {
+      "criterion": "C2",
+      "threshold": 0.28449169921875006,
+      "before": "Optima",
+      "after": "NorthBridge"
+     }
+    ]
+   },
+   {
+    "criterion": "C3",
+    "reference": 0.21466730999758296,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C3",
+     "threshold": 0.32662158203125,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "Optima"
+    },
+    "all": [
+     {
+      "criterion": "C3",
+      "threshold": 0.32662158203125,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C4",
+    "reference": 0.07377808969579779,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C4",
+     "threshold": 0.26410009765625,
+     "before": "NorthBridge",
+     "after": "Optima",
+     "new_first": "Optima"
+    },
+    "all": [
+     {
+      "criterion": "C4",
+      "threshold": 0.26410009765625,
+      "before": "NorthBridge",
+      "after": "Optima"
+     }
+    ]
+   },
+   {
+    "criterion": "C5",
+    "reference": 0.12088834303235381,
+    "switch_below": null,
+    "switch_above": {
+     "criterion": "C5",
+     "threshold": 0.30508935546875005,
+     "before": "NorthBridge",
+     "after": "Atlas",
+     "new_first": "Atlas"
+    },
+    "all": [
+     {
+      "criterion": "C5",
+      "threshold": 0.30508935546875005,
+      "before": "NorthBridge",
+      "after": "Atlas"
+     }
+    ]
+   }
+  ]
+ },
+ "monte_carlo": {
+  "WS Dirichlet filtre 10-40 % (1e5 tirages)": {
+   "mode": "dirichlet",
+   "draws": 5458,
+   "first_place_share": {
+    "Atlas": 0.02015390252839868,
+    "NorthBridge": 0.1678270428728472,
+    "Optima": 0.8120190545987541,
+    "Horizon": 0.0
+   }
+  },
+  "WS AHP +/-30 %": {
+   "mode": "perturb",
+   "draws": 10000,
+   "first_place_share": {
+    "Atlas": 0.0,
+    "NorthBridge": 0.9962,
+    "Optima": 0.0038,
+    "Horizon": 0.0
+   }
+  },
+  "WS uniforme U(0,1;0,4) normalise": {
+   "draws": 10000,
+   "first_place_share": {
+    "Atlas": 0.0101,
+    "NorthBridge": 0.1151,
+    "Optima": 0.8748,
+    "Horizon": 0.0
+   }
+  },
+  "PROMETHEE Dirichlet filtre 10-40 % (1e5 tirages)": {
+   "mode": "dirichlet",
+   "draws": 5458,
+   "first_place_share": {
+    "Atlas": 0.11066324661048003,
+    "NorthBridge": 0.13851227555881276,
+    "Optima": 0.7508244778307073,
+    "Horizon": 0.0
+   }
+  },
+  "PROMETHEE AHP +/-30 %": {
+   "mode": "perturb",
+   "draws": 10000,
+   "first_place_share": {
+    "Atlas": 0.0,
+    "NorthBridge": 0.9713,
+    "Optima": 0.0287,
+    "Horizon": 0.0
+   }
+  },
+  "PROMETHEE uniforme U(0,1;0,4) normalise": {
+   "draws": 10000,
+   "first_place_share": {
+    "Atlas": 0.0732,
+    "NorthBridge": 0.0848,
+    "Optima": 0.842,
+    "Horizon": 0.0
+   }
+  }
+ },
+ "perturbation": {
+  "WS/membres": {
+   "tested": 28,
+   "changes": [
+    {
+     "alternative": "NorthBridge",
+     "criterion": "C1",
+     "from": 3.0,
+     "to": 4.0,
+     "new_first": "NorthBridge"
+    },
+    {
+     "alternative": "NorthBridge",
+     "criterion": "C3",
+     "from": 3.0,
+     "to": 4.0,
+     "new_first": "NorthBridge"
+    },
+    {
+     "alternative": "NorthBridge",
+     "criterion": "C5",
+     "from": 3.0,
+     "to": 4.0,
+     "new_first": "NorthBridge"
+    },
+    {
+     "alternative": "Optima",
+     "criterion": "C1",
+     "from": 3.0,
+     "to": 2.0,
+     "new_first": "NorthBridge"
+    },
+    {
+     "alternative": "Optima",
+     "criterion": "C2",
+     "from": 2.0,
+     "to": 1.0,
+     "new_first": "NorthBridge"
+    },
+    {
+     "alternative": "Optima",
+     "criterion": "C3",
+     "from": 5.0,
+     "to": 4.0,
+     "new_first": "NorthBridge"
+    },
+    {
+     "alternative": "Optima",
+     "criterion": "C5",
+     "from": 4.0,
+     "to": 3.0,
+     "new_first": "NorthBridge"
+    }
+   ],
+   "reference_first": "Optima"
+  },
+  "PROMETHEE/AHP": {
+   "tested": 28,
+   "changes": [
+    {
+     "alternative": "Horizon",
+     "criterion": "C2",
+     "from": 3.0,
+     "to": 4.0,
+     "new_first": "Horizon"
+    }
+   ],
+   "reference_first": "NorthBridge"
+  }
+ },
+ "horizon_c2_4": [
+  -0.1779608360090611,
+  0.11656354552018794,
+  -0.06816798558939974,
+  0.129565276078273
+ ],
+ "fees": {
+  "Optima 2.0": [
+   -0.0944055143920205,
+   0.18957914003782889,
+   0.025927063127040517,
+   -0.12110068877284877
+  ],
+  "Optima 2.9": [
+   -0.0944055143920205,
+   0.20011886713722854,
+   0.015387336027640863,
+   -0.12110068877284877
+  ],
+  "Optima 3.6": [
+   -0.08737902965908739,
+   0.21417183660309483,
+   -0.02325833000349134,
+   -0.10353447694051596
+  ],
+  "Optima 4.5": [
+   -0.06981281782675464,
+   0.23525129080189425,
+   -0.07244372313402322,
+   -0.0929947498411163
+  ]
+ },
+ "thresholds": {
+  "q=0, p=1": {
+   "AHP": [
+    -0.17193653021636685,
+    0.19409456134453412,
+    0.02723970774285922,
+    -0.049397738871026664
+   ],
+   "membres": [
+    -0.11309523809523814,
+    0.059523809523809534,
+    0.19047619047619047,
+    -0.13690476190476186
+   ]
+  },
+  "q=0.5, p=2": {
+   "AHP": [
+    -0.0944055143920205,
+    0.20011886713722854,
+    0.015387336027640863,
+    -0.12110068877284877
+   ],
+   "membres": [
+    -0.05753968253968256,
+    0.05952380952380942,
+    0.13492063492063483,
+    -0.1369047619047618
+   ]
+  },
+  "q=0, p=3": {
+   "AHP": [
+    -0.13168947583979126,
+    0.21947709110954378,
+    0.01538733602764078,
+    -0.10317495129739326
+   ],
+   "membres": [
+    -0.0992063492063493,
+    0.10119047619047614,
+    0.13492063492063497,
+    -0.13690476190476183
+   ]
+  },
+  "q=1, p=3": {
+   "AHP": [
+    -0.11156594865150357,
+    0.23216835599204855,
+    0.009461150170031546,
+    -0.13006355751057658
+   ],
+   "membres": [
+    -0.09226190476190482,
+    0.1220238095238095,
+    0.10714285714285712,
+    -0.1369047619047618
+   ]
+  },
+  "q=0, p=4": {
+   "AHP": [
+    -0.10930683397924318,
+    0.16724275010700773,
+    0.02735009266983013,
+    -0.08528600879759468
+   ],
+   "membres": [
+    -0.09226190476190482,
+    0.08035714285714288,
+    0.1279761904761905,
+    -0.11607142857142849
+   ]
+  }
+ },
+ "normalisations": {
+  "minmax": {
+   "C4": [
+    1.0,
+    3.1333333333333333,
+    5.0,
+    1.8000000000000016
+   ],
+   "membres": [
+    3.0,
+    3.5166666666666666,
+    3.625,
+    2.975
+   ],
+   "AHP": [
+    2.932888869394012,
+    3.7618349731794716,
+    3.3217801951424333,
+    3.032354635397397
+   ]
+  },
+  "ratio": {
+   "C4": [
+    3.2954545454545454,
+    4.027777777777778,
+    5.0,
+    3.536585365853659
+   ],
+   "membres": [
+    3.2869318181818183,
+    3.6284722222222223,
+    3.625,
+    3.1920731707317076
+   ],
+   "AHP": [
+    3.1022431207411842,
+    3.827825375629602,
+    3.3217801951424333,
+    3.160476586283758
+   ]
+  }
+ },
+ "other_weights": {
+  "20 %": [
+   3.05,
+   3.45,
+   3.8,
+   3.0
+  ],
+  "mission 30/25/20/10/15": [
+   3.275,
+   3.5250000000000004,
+   3.5,
+   2.9500000000000006
+  ]
+ },
+ "substitution_MDH_per_point": {
+  "membres": {
+   "C1": 0.8,
+   "C2": 0.8,
+   "C3": 0.8,
+   "C5": 0.4
+  },
+  "AHP": {
+   "C1": 1.1638539890783306,
+   "C2": 2.0385398907833125,
+   "C3": 1.1638539890783315,
+   "C5": 0.6554159563133244
+  }
+ }
+}
